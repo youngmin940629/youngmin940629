@@ -13,25 +13,25 @@
 
   ### WEB & Language
   <div display=inline-block>
-    <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E88216.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
-    <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JAVASCRIPT-F2E555.svg?&style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
-    <img alt="REACT" src ="https://img.shields.io/badge/REACT-3AF0F2.svg?&style=flat-square&logo=REACT&logoColor=white"/>
-    <img alt="VUE" src ="https://img.shields.io/badge/VUE-36C487.svg?&style=flat-square&logo=VUE.js&logoColor=white"/>
-    <img alt="Django" src ="https://img.shields.io/badge/Django-green.svg?&style=flat-square&logo=Django&logoColor=white"/>
-    <img alt="PYTHON" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=PYTHON&logoColor=white"/>
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   </div>
 
 
 
   ### Tools
   <div display=inline-block>
-    <img alt="SQLITE3" src ="https://img.shields.io/badge/SQLITE3-4169e1.svg?&style=flat-square&logo=SQLITE&logoColor=white"/>
-    <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-1392E2.svg?&style=flat-square&logo=MYSQL&logoColor=white"/>
-    <img alt="GIT" src ="https://img.shields.io/badge/GIT-f04816.svg?&style=flat-square&logo=GIT&logoColor=white"/>
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   </div>
 
 
   ## :fire: Is Learning
-  <img alt="C++" src ="https://img.shields.io/badge/-C++-0B76B9.svg?&style=flat-square&logo=c&2B%2B&logoColor=white"/>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
  </div>

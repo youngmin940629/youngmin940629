@@ -1,4 +1,4 @@
-<div aling='center'>
+<div align='center'>
 
   #  :smile: Heo Young Min
   [![Gmail Badge](http://img.shields.io/badge/-gjdudals1237@gmail.com-12100E?style=flat&logo=Gmail)](gjdudals1237@gmail.com)

@@ -1,5 +1,4 @@
 <div align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin940629&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   #  :smile: Heo Young Min
   [![Gmail Badge](http://img.shields.io/badge/-gjdudals1237@gmail.com-12100E?style=flat&logo=Gmail)](gjdudals1237@gmail.com)

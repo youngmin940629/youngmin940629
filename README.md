@@ -5,5 +5,3 @@
 [![Solved.ac
 kgjdudals](http://mazassumnida.wtf/api/generate_badge?boj=kgjdudals)](https://solved.ac/kgjdudals)
 
-
-## :muscle: Skills
